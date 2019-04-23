@@ -1,0 +1,8 @@
+prefix=/home/ubunturlgns/catkin_ws/install
+
+Name: turtlebot3_jiho
+Description: Description of turtlebot3_jiho
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ubunturlgns/catkin_ws/install/lib -lturtlebot3_jiho
+Requires: cv_bridge roscpp std_msgs

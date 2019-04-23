@@ -1,0 +1,8 @@
+prefix=/home/ubunturlgns/catkin_ws/devel
+
+Name: turtlebot3_opencv
+Description: Description of turtlebot3_opencv
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ubunturlgns/catkin_ws/devel/lib -lturtlebot3_opencv
+Requires: cv_bridge roscpp std_msgs

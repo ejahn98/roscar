@@ -1,0 +1,8 @@
+prefix=/home/ubunturlgns/catkin_ws/install
+
+Name: turtlebot3_controller
+Description: Description of turtlebot3_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ubunturlgns/catkin_ws/install/lib -lturtlebot3_controller
+Requires: geometry_msgs roscpp std_msgs
